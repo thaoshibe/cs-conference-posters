@@ -1,3 +1,3 @@
 # Posters
 
-![](jerry-explain.png)
+![](./imgs/jerry-explain.png)
