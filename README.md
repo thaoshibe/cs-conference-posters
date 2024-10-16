@@ -29,15 +29,14 @@ Okie~ Let's get started 🚀
 3. [NeurIPS 2023](#neurips-2023)
 4. [CVPR 2021](#cvpr-2021)
 
-### NeurIPS 2024 (in progress)
+### NeurIPS 2024
 
 - Paper: *Yo'LLaVA: Your Personalized Language and Vision Assistant*
 - Authors: Thao Nguyen, Haotian Liu, Yuheng Li, Mu Cai, Utkarsh Ojha, Yong Jae Lee
 - Page: [https://thaoshibe.github.io/YoLLaVA/](https://thaoshibe.github.io/YoLLaVA/)
-- Poster PPTX: [here](./pptx/yollava-poster-workshop.pptx)
+- Poster PPTX: [here](./pptx/yollava-poster-neurips2024.pptx)
 
-![](./imgs/yollava-midwest-workshop.png)
-*This poster is made for MidWest Computer Vision Workshop 2024 -- Not yet updated for NeurIPS 2024*
+![](./imgs/yollava-poster-neurips2024.png)
 
 ### CVPR 2024
 
