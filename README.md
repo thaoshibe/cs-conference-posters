@@ -24,10 +24,20 @@ Okie~ Let's get started 🚀
 
 ## 📚 Table of Contents
 
-1. [NeurIPS 2024 (in progress)](#neurips-2024)
-2. [CVPR 2024](#cvpr-2024)
-3. [NeurIPS 2023](#neurips-2023)
-4. [CVPR 2021](#cvpr-2021)
+1. [CVPR 2025](#cvpr-2025)
+1. [NeurIPS 2024](#neurips-2024)
+1. [CVPR 2024](#cvpr-2024)
+1. [NeurIPS 2023](#neurips-2023)
+1. [CVPR 2021](#cvpr-2021)
+
+### CVPR 2024
+
+- Paper: *Yo'Chameleon: Personalized Vision and Language Generation*
+- Authors: Thao Nguyen, Krishna Kumar Singh, Jing Shi, Trung Bui, Yong Jae Lee, Yuheng Li 
+- Page: [https://thaoshibe.github.io/YoChameleon/](https://thaoshibe.github.io/YoChameleon/)
+- Poster PPTX: [here](./pptx/yochameleon-poster.pptx)
+
+![](./imgs/yochameleon-poster.png)
 
 ### NeurIPS 2024
 
