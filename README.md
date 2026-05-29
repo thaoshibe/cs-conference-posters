@@ -24,13 +24,23 @@ Okie~ Let's get started 🚀
 
 ## 📚 Table of Contents
 
+1. [CVPR 2026](#cvpr-2026)
 1. [CVPR 2025](#cvpr-2025)
 1. [NeurIPS 2024](#neurips-2024)
 1. [CVPR 2024](#cvpr-2024)
 1. [NeurIPS 2023](#neurips-2023)
 1. [CVPR 2021](#cvpr-2021)
 
-### CVPR 2024
+### CVPR 2026
+
+- Paper: *Relational Visual Similarity*
+- Authors: Thao Nguyen, Sicheng Mo, Krishna Kumar Singh, Yilin Wang, Jing Shi, Nicholas Kolkin, Eli Shechtman, Yong Jae Lee, Yuheng Li
+- Page: [https://thaoshibe.github.io/relsim/](https://thaoshibe.github.io/relsim/)
+- Poster PPTX: [here](./pptx/cvor2026-relsim.pptx)
+
+![](./imgs/cvpr2026-relsim.png)
+
+### CVPR 2025
 
 - Paper: *Yo'Chameleon: Personalized Vision and Language Generation*
 - Authors: Thao Nguyen, Krishna Kumar Singh, Jing Shi, Trung Bui, Yong Jae Lee, Yuheng Li 
