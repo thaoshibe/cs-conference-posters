@@ -14,11 +14,6 @@ But I’ve decided not to let all that hard work go to waste!
 
 ✨ I’m gathering them all in one place so I can look back and see how I’ve grown—both professionally and with a bit of humor, haha! 🌱📈
 
-No -- I have decided that I will not let my hard work go to waste.
-Or at least, I'd keep all the posters in one place, so that I can look back and see how I have improved over the years (both professionally and funny side, hahahaa)
-
-Okie~ Let's get started 🚀
-
 <img src="./imgs/tom-dream.png" alt="Poster Image" width="300px">
 
 
