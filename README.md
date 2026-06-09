@@ -19,12 +19,23 @@ But I’ve decided not to let all that hard work go to waste!
 
 ## 📚 Table of Contents
 
-1. [CVPR 2026](#cvpr-2026)
-1. [CVPR 2025](#cvpr-2025)
-1. [NeurIPS 2024](#neurips-2024)
-1. [CVPR 2024](#cvpr-2024)
-1. [NeurIPS 2023](#neurips-2023)
-1. [CVPR 2021](#cvpr-2021)
+1. [arXiv 2026](#arxiv-2026) | `camroll`
+1. [CVPR 2026](#cvpr-2026) | `relsim`
+1. [CVPR 2025](#cvpr-2025) | `yo'chameleon`
+1. [NeurIPS 2024](#neurips-2024) | `yo'llava`
+1. [CVPR 2024](#cvpr-2024) | `edit-one-for-all`
+1. [NeurIPS 2023](#neurips-2023) | `visii`
+1. [CVPR 2021](#cvpr-2021) | `makeup-transfer`
+
+### arXiv 2026
+
+- Paper: *Personal AI Agent for Camera Roll VQA*
+- Authors: Thao Nguyen, Krishna Kumar Singh, Donghyun Kim, Yong Jae Lee, Yuheng Li
+- Page: [https://thaoshibe.github.io/camroll](https://thaoshibe.github.io/camroll)
+- arXiv: [2606.05275](https://arxiv.org/abs/2606.05275)
+- Poster PPTX: [here](./pptx/camroll.pptx)
+
+![](./imgs/camroll.png)
 
 ### CVPR 2026
 
